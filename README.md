@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/hopepsycho/kunjappan2.0/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/mrdfox/moviebot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,7 +63,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/hopepsycho/kunjappan2.0
+git clone https://github.com/mrdfox/moviebot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -100,29 +100,29 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORT)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORTEZ)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/at3botsupportz)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/at3botsupport)
 
 ## Credits 
 * [![kunjappan](https://img.shields.io/static/v1?label=kunjappan&message=devs&color=critical)](https://telegram.dog/kunjappandevs)
 
 
 ## Thanks to 
- - Thanks To Dan For His Awsome [Libary](https://github.com/hopepsycho/psycho)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/hopepsycho/kunjappan2.0)
- - Thanks To [PSYCHO](https://github.com/hopepsycho) for Their Awesome [Unlimited Filter Bot](https://github.com/hopepsycho/king_of_psycho) And [AutoFilterBoT](https://github.com/hopepsycho/kunjappan2.0)
+ - Thanks To Dan For His Awsome [Libary](https://github.com/mrdfox/moviebot)
+ - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/mrdfox/moviebot)
+ - Thanks To [PSYCHO](https://github.com/mrdfox/moviebot) for Their Awesome [Unlimited Filter Bot](https://github.com/mrdfox/moviebot) And [AutoFilterBoT](https://github.com/hopepsycho/kunjappan2.0)
  - Thanks To All Everyone In This Journey
 
 ### Note
 
-[Note To A So Called Dev](https://telegram.dog/kunjappandevs): 
+[Note To A So Called Dev](https://telegram.dog/at3botsupport): 
 
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/at3botsupport), beta , gama branches of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/hopepsycho/kunjappan2.0/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/mrdfox/moviebot/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
